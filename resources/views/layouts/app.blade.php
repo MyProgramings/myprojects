@@ -35,7 +35,7 @@
     <link rel="stylesheet" href="{{ asset('build/assets/app-c2892324.css') }}">
     <script src="{{ asset('build/assets/app-ecd146ba.js') }}"></script>
     <!-- Scripts -->
-    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
+    {{-- @vite(['resources/sass/app.scss', 'resources/js/app.js']) --}}
 </head>
 <body>
     <div id="app">
